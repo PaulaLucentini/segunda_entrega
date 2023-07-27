@@ -92,7 +92,8 @@ useEffect (()=>{
             }
             </div>
             
-        </div>  
+        </div> 
+        console.log("Hola Mundo") 
       </div> 
   );
 }
